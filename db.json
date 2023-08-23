@@ -9,6 +9,12 @@
       "title": "test"
     }
   ],
+  "users": [
+    {
+      "id": 1,
+      "name": "diego"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
